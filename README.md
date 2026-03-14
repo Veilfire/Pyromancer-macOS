@@ -305,7 +305,7 @@ Pyromancer's preferences are organized into nine tabs:
 
 ## Requirements
 
-- macOS 14.0+ (Sonoma)
+- macOS 26.0+ (Tahoe)
 - Apple Silicon or Intel Mac with Metal support
 
 ---
